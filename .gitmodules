@@ -1,0 +1,3 @@
+[submodule "ft-index"]
+	path = ft-index
+	url = git@github.com:Tokutek/ft-index.git
